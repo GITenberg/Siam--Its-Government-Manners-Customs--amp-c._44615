@@ -1,0 +1,28 @@
+_repo: Siam--Its-Government-Manners-Customs--amp-c._44615
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McDonald, N. A. (Noah A.)
+    alias: McDonald, Noah A.
+    gutenberg_agent_id: '42840'
+    url: http://www.gutenberg.org/2009/agents/42840
+description: ''
+gutenberg_issued: '2014-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thailand -- History -- 1782-1945'
+- !lcc 'DS'
+- !lcsh 'Americans -- Thailand'
+- !lcsh 'Thailand -- Description and travel'
+- !lcsh 'Thailand -- Social life and customs'
+title: 'Siam: Its Government, Manners, Customs, &c.'
+url: http://www.gutenberg.org/ebooks/44615
